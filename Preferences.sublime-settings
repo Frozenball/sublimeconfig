@@ -1,5 +1,5 @@
-
-lor_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
+{
+	"color_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
 	"file_exclude_patterns":
 	[
 		".*",
@@ -37,4 +37,3 @@ lor_scheme": "Packages/Theme - Nexus/Nexus.tmTheme",
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true
 }
-
