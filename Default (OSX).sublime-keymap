@@ -1,0 +1,14 @@
+[
+    {"keys": ["super+alt+up"], "command": "select_lines", "args": {"forward": false}},
+    { "keys": ["super+alt+down"], "command": "select_lines", "args": {"forward": true}},
+    {
+        "keys": ["command+shift+r"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.0,
+            "activate_browser": false,
+            "browser_name" : "all"
+        }
+    },
+    { "keys": ["super+v"], "command": "paste_and_indent" },
+    { "keys": ["super+shift+v"], "command": "paste" }
+]
